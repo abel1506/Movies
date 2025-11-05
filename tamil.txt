@@ -1,0 +1,7 @@
+1.
+
+name : Dude
+
+director : Keerthiswaran
+
+release year : 2025
